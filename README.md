@@ -1,2 +1,2 @@
-# QCloudAuthService
-SpringSecurity认证鉴权服务
+# C-Auth
+Spring Cloud Oauth 认证授权中心
